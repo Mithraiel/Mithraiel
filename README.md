@@ -1,4 +1,5 @@
 # Hey there, I'm Michael 👋
+
 🎓 Business Informatics student @ FernUniversität in Hagen
 💼 Application Consultant, QA & Testing, Product Owner & Manager Assistent at Agenda Informationssysteme GmbH & Co. KG
 ⚖️ Former Tax Clerk (Steuerfachangestellter) at Steuerkanzlei Hoyer and Mattheis Schießl & Partner mbB  
@@ -39,6 +40,8 @@ Blender • Substance Painter • Clip Studio Paint • Krita • Photoshop • 
 🎧 Audio & Music Production
 FL Studio • Audacity • Ableton Live • Sound design • Mixing & Mastering
 
+💡 “Where creativity meets logic — turning ideas into worlds, sounds, and stories.”
+
 🤖 Artificial Intelligence & Ethical Use
 ChatGPT • Midjourney • Leonardo AI • Runway ML • Pika Labs • Kaiber • Stable Diffusion • Adobe Firefly • OpenAI API • Copilot • Hugging Face
 
@@ -47,5 +50,18 @@ Responsible AI use • Transparency • Data privacy awareness • Fairness & no
 
 💭 “I believe in using AI as a creative tool & amplifier — not as a substitute for human imagination or ethical responsibility.”
 
-💡 “Where creativity meets logic — turning ideas into worlds, sounds, and stories.”
 
+
+
+## 🎯 Future Goals
+In the next stage of my academic journey, I plan to continue at the University of Applied Sciences Munich (Hochschule München)
+to pursue a Bachelor’s degree in Informatics and Design, followed by a Master’s degree in Computer Science at the Technical University of Munich (TUM).
+
+My long-term vision is to cultivate what I call my Trinity of Creation —
+a deep fusion of economics, technology, and art.
+From my roots in business and finance, to my passion for software engineering and creative design,
+I strive to build bridges between these worlds — crafting solutions that are not only functional,
+but emotionally and economically meaningful.
+
+🏆 To me, innovation is where logic, creativity, and human understanding intersect —
+that’s where the real magic of technology begins.
