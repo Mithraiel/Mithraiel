@@ -1,5 +1,5 @@
 # Hey there, I'm Michael 👋
-<br><br><br>
+<br>
 - 🎓 Business Informatics student @ FernUniversität in Hagen
 - 💼 Application Consultant, QA & Testing, Product Owner & Manager Assistent at Agenda Informationssysteme GmbH & Co. KG
 - ⚖️ Former Tax Clerk (Steuerfachangestellter) at Steuerkanzlei Hoyer and Mattheis Schießl & Partner mbB  
