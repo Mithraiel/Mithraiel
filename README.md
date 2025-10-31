@@ -1,9 +1,9 @@
 # Hey there, I'm Michael 👋
-
-🎓 Business Informatics student @ FernUniversität in Hagen
-💼 Application Consultant, QA & Testing, Product Owner & Manager Assistent at Agenda Informationssysteme GmbH & Co. KG
-⚖️ Former Tax Clerk (Steuerfachangestellter) at Steuerkanzlei Hoyer and Mattheis Schießl & Partner mbB  
-🎮 Indie game & music creator based in Munich 🇩🇪  
+<br><br><br>
+- 🎓 Business Informatics student @ FernUniversität in Hagen
+- 💼 Application Consultant, QA & Testing, Product Owner & Manager Assistent at Agenda Informationssysteme GmbH & Co. KG
+- ⚖️ Former Tax Clerk (Steuerfachangestellter) at Steuerkanzlei Hoyer and Mattheis Schießl & Partner mbB  
+- 🎮 Indie game & music creator based in Munich 🇩🇪  
 
 ## 🚀 Current Projects
 - **Cindergold: Humming Veil** — steampunk fantasy Visual Novel & Narrative RPG series (Unity, C#)
@@ -13,7 +13,7 @@
 - Harvard CS50 Series (Computerscience, AI, Cybersecurity, Web, Python)
 - freeCodeCamp (JavaScript, HTML, CSS, C#, Java, Python)
 
-
+<br><br><br>
 
 ## 💖 Tech Stack & Tools I Love
 
@@ -51,7 +51,7 @@ Responsible AI use • Transparency • Data privacy awareness • Fairness & no
 💭 “I believe in using AI as a creative tool & amplifier — not as a substitute for human imagination or ethical responsibility.”
 
 
-
+<br><br><br>
 
 ## 🎯 Future Goals
 In the next stage of my academic journey, I plan to continue at the University of Applied Sciences Munich (Hochschule München)
