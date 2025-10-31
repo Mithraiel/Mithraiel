@@ -39,7 +39,7 @@ Blender • Substance Painter • Clip Studio Paint • Krita • Photoshop • 
 🎧 Audio & Music Production
 FL Studio • Audacity • Ableton Live • Sound design • Mixing & Mastering
 
-💡 “Where creativity meets logic — turning ideas into worlds, sounds, and stories.”
+>>💡 *“Where creativity meets logic — turning ideas into worlds, sounds, and stories.”*
 
 🤖 Artificial Intelligence & Ethical Use
 ChatGPT • Midjourney • Leonardo AI • Runway ML • Pika Labs • Kaiber • Stable Diffusion • Adobe Firefly • OpenAI API • Copilot • Hugging Face
@@ -47,7 +47,7 @@ ChatGPT • Midjourney • Leonardo AI • Runway ML • Pika Labs • Kaiber �
 Ethical AI Principles:
 Responsible AI use • Transparency • Data privacy awareness • Fairness & non-bias evaluation • AI-assisted creativity (not replacement) • Human-centered design
 
-💭 “I believe in using AI as a creative tool & amplifier — not as a substitute for human imagination or ethical responsibility.”
+>>💭 *“I believe in using AI as a creative tool & amplifier — not as a substitute for human imagination or ethical responsibility.”*
 
 
 <br><br><br>
@@ -62,5 +62,5 @@ From my roots in business and finance, to my passion for software engineering an
 I strive to build bridges between these worlds — crafting solutions that are not only functional,
 but emotionally and economically meaningful.
 
-🏆 To me, innovation is where logic, creativity, and human understanding intersect —
-that’s where the real magic of technology begins.
+>>*🏆 To me, innovation is where logic, creativity, and human understanding intersect —
+that’s where the real magic of technology begins.*
